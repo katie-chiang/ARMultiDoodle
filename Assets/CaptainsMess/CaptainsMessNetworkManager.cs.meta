@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e5abd526a037e4375bf9a388e1f3f30c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PlayerPrefab: {fileID: 122230, guid: 4e2c92dd8794a4c13bb39956aa93c166, type: 2}
+  - matchMaker: {instanceID: 0}
+  - discoveryServer: {instanceID: 0}
+  - discoveryClient: {instanceID: 0}
+  - listener: {instanceID: 0}
+  - localPlayer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
